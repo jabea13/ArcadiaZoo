@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "66926c7b04ea28a12b9b6c65"
+  },
+  "avis_id": 1,
+  "pseudo": "user1",
+  "commentaire": "Très bon service de garderie",
+  "isVisible": true
+},
+{
+  "_id": {
+    "$oid": "66926c7b04ea28a12b9b6c66"
+  },
+  "avis_id": 2,
+  "pseudo": "user2",
+  "commentaire": "Restaurant agréable mais cher",
+  "isVisible": false
+},
+{
+  "_id": {
+    "$oid": "66926c7b04ea28a12b9b6c67"
+  },
+  "avis_id": 3,
+  "pseudo": "user3",
+  "commentaire": "Boutique avec beaucoup de choix",
+  "isVisible": true
+}]

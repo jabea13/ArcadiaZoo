@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66926c7004ea28a12b9b6c62"
+  },
+  "service_id": 1,
+  "nom": "Garderie",
+  "description": "Service de garderie pour les enfants"
+},
+{
+  "_id": {
+    "$oid": "66926c7004ea28a12b9b6c63"
+  },
+  "service_id": 2,
+  "nom": "Restaurant",
+  "description": "Restaurant avec vue sur les animaux"
+},
+{
+  "_id": {
+    "$oid": "66926c7004ea28a12b9b6c64"
+  },
+  "service_id": 3,
+  "nom": "Boutique",
+  "description": "Boutique de souvenirs"
+}]
