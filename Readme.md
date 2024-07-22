@@ -8,6 +8,10 @@ git clone https://github.com/username/ArcadiaZoo
 cd ArcadiaZoo
 npm install
 
+# Pré-requis
+
+install bootstrap and icon-bootstrap
+
 # Usage
 
 npm start
