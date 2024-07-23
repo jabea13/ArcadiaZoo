@@ -12,6 +12,7 @@ npm install
 
 install bootstrap and icon-bootstrap
 install symfony and composer
+install doctrine
 
 # Usage
 
