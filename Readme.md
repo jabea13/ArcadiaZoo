@@ -11,6 +11,7 @@ npm install
 # Pré-requis
 
 install bootstrap and icon-bootstrap
+install symfony and composer
 
 # Usage
 
